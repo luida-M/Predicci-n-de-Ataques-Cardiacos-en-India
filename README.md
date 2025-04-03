@@ -20,28 +20,20 @@ El dataset contiene:
 
 
 ## Visualizaciones ejecutivas  
-A continuación, se presentan algunos gráficos clave generados durante el análisis:
-1.	Matriz de Correlación
-Se presenta una matriz de calor que muestra la relación entre las variables clave como edad, colesterol y presión arterial sistólica con el riesgo de ataque cardíaco.
-### Matriz de Correlación  
-![Matriz de Correlación](ruta/del/archivo.png)
+ 
+![Carpeta de las imagenes](https://drive.google.com/drive/folders/1JQbzJ8VsTD99xv1vQptUwu8pQ739BvMR?usp=sharing)  
 
-3.	Distribución del Colesterol por Edad
-Se muestran gráficos de cajas y violines para visualizar la distribución del colesterol en diferentes rangos de edad.
-### Distribución de [Variable]  
-![Distribución de Variable](ruta/del/archivo.png)  
-
-4.	Comparación de Medias
-Una tabla comparativa muestra el promedio de colesterol por categoría de edad.
-5.	Modelo de Regresión Logística
-Se presentan los coeficientes del modelo de regresión logística y su reporte de clasificación con medidas de precisión, recall y F1-score.
  
 ## Insights  
 Los hallazgos clave incluyen:  
 - **Se identificó una correlación significativa entre la presión arterial y el riesgo de ataque cardíaco.
--	**Los niveles elevados de colesterol están asociados con un mayor riesgo, especialmente en adultos mayores de 50 años.
-- **Los hombres presentan una incidencia ligeramente mayor de ataques cardíacos en comparación con las mujeres según los datos analizados.
--	**El modelo de regresión logística logró una precisión del 85% en la predicción del riesgo cardíaco.
+- **La edad es un factor determinante del colesterol ni del riesgo de ataque cardíaco ( Mayor frecuencia entre los 30 y 50 años).
+- **Se recomienda analizar factores como presión arterial, índice de masa corporal (IMC), por el consumo de cigarro.
+- **Los hombres presentan una incidencia ligeramente mayor de ataques cardíacos en comparación con las mujeres según los datos analizados.**
+- **El modelo de regresión logística logró una precisión del 90% en la predicción del riesgo cardíaco.
+
+Este análisis proporciona información valiosa para la prevención y diagnóstico temprano de enfermedades cardíacas en la población.
+
 
 
 ## Herramientas utilizadas  

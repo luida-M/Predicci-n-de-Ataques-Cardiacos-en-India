@@ -1,7 +1,5 @@
 # Predicción de Ataques Cardíacos en India
 # Análisis de Datos
-
-## Abstracto con motivación y audiencia  
 El objetivo de este análisis es comprender los factores que influyen en el riesgo de ataques cardíacos en India mediante el estudio de una base de datos médica. La audiencia beneficiada incluye profesionales de la salud, investigadores en epidemiología, aseguradoras médicas y responsables de políticas públicas en salud.
 
 ## Resumen de Metadata  

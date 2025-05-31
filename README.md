@@ -25,7 +25,7 @@ El dataset contiene:
 ## Insights  
 Los hallazgos clave incluyen:  
 - **Se identificó una correlación significativa entre la presión arterial y el riesgo de ataque cardíaco.**
-- **La edad es un factor determinante del colesterol ni del riesgo de ataque cardíaco ( Mayor frecuencia entre los 30 y 50 años).
+- **La edad es un factor determinante del colesterol ni del riesgo de ataque cardíaco ( Mayor frecuencia entre los 30 y 50 años).**
 - **Se recomienda analizar factores como presión arterial, índice de masa corporal (IMC), por el consumo de cigarro.**
 - **Los hombres presentan una incidencia ligeramente mayor de ataques cardíacos en comparación con las mujeres según los datos analizados.**
 - **El modelo de regresión logística logró una precisión del 90% en la predicción del riesgo cardíaco.**

@@ -29,29 +29,29 @@ Este análisis proporciona información valiosa para la prevención y diagnósti
 
 ## Análisis Exploratorio de Datos (EDA)
 Se realizaron diversos gráficos como matriz de correlación, histogramas, gráficos de caja, dispersión y tortas para entender mejor la distribución y relaciones entre variables. Las observaciones clave incluyen:
-- **El colesterol alto se presenta en todas las edades.
-- **La presión sistólica muestra cierta asociación con el riesgo cardíaco.
-- **El tabaquismo, la edad y el género también tienen peso en el riesgo estimado.
+- El colesterol alto se presenta en todas las edades.
+- La presión sistólica muestra cierta asociación con el riesgo cardíaco.
+- El tabaquismo, la edad y el género también tienen peso en el riesgo estimado.
 
 ## Entrenamiento y Evaluación de Modelos
 Se entrenaron tres modelos de clasificación supervisada:
-- **Regresión Logística
-- **Random Forest
-- **XGBoost
+- Regresión Logística
+- Random Forest
+- XGBoost
 
 Todos los modelos fueron evaluados usando métricas como Accuracy, Precision, Recall, F1 Score y AUC ROC.
 La curva ROC múltiple mostró que XGBoost tuvo el mejor rendimiento con un AUC de 95.21%, seguido de Random Forest y Regresión Logística.
 
 ## Predicción de Nuevos Pacientes
 Se evaluó un nuevo paciente con los siguientes datos (Edad: 55, Presión Sistólica: 145, Colesterol: 230):
-- **El modelo XGBoost predijo un riesgo cardíaco con una probabilidad de 99.99%.
-- **El modelo Random Forest también indicó riesgo con una probabilidad de 100%.
+- El modelo XGBoost predijo un riesgo cardíaco con una probabilidad de 99.99%.
+- El modelo Random Forest también indicó riesgo con una probabilidad de 100%.
 
 ##Conclusiones Finales
 Este análisis permitió identificar patrones de riesgo cardíaco y construir modelos predictivos confiables.
-- **XGBoost fue el modelo con mejor desempeño.
-- **La presión arterial y el colesterol son los factores más relevantes.
-- **El análisis puede utilizarse como herramienta de apoyo para la detección temprana de enfermedades cardíacas.
+- XGBoost fue el modelo con mejor desempeño.
+- La presión arterial y el colesterol son los factores más relevantes.
+- El análisis puede utilizarse como herramienta de apoyo para la detección temprana de enfermedades cardíacas.
 Se recomienda aplicar esta metodología a otros contextos regionales para ampliar su alcance predictivo.
 
 

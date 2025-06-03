@@ -1,4 +1,8 @@
 # Predicción de Ataques Cardíacos en India
+
+# Resumen Ejecutivo
+Este informe presenta un análisis detallado del riesgo de ataques cardíacos en una población en India, basado en un conjunto de datos médicos. Se utilizan técnicas de análisis exploratorio y modelos de Machine Learning para entender los factores de riesgo y predecir eventos cardíacos. El trabajo tiene como objetivo beneficiar a profesionales de la salud, investigadores, aseguradoras médicas y responsables de políticas públicas.
+
 # Análisis de Datos
 El objetivo de este análisis es comprender los factores que influyen en el riesgo de ataques cardíacos en India mediante el estudio de una base de datos médica. La audiencia beneficiada incluye profesionales de la salud, investigadores en epidemiología, aseguradoras médicas y responsables de políticas públicas en salud.
 
@@ -15,11 +19,6 @@ El dataset contiene:
 3.	¿Los niveles de presión arterial afectan significativamente el riesgo de enfermedad cardíaca?
 4.	¿Cómo se distribuye el riesgo cardíaco según el género y otras condiciones médicas?
 5.	¿Se puede predecir el riesgo cardíaco utilizando un modelo de regresión logística?
-
-
-## Visualizaciones ejecutivas  
- 
-![https://drive.google.com/drive/folders/1JQbzJ8VsTD99xv1vQptUwu8pQ739BvMR?usp=sharing]  
 
  
 ## Insights  
@@ -41,6 +40,5 @@ Este análisis proporciona información valiosa para la prevención y diagnósti
 - Scikit-Learn  
 
 ## Cómo ejecutar el código  
-1. Ubicación del código:  
-   ```bash
-   Google Colab https://colab.research.google.com/drive/1fhtPpfYOmMrXAjBOt_-C7x5lZnPyjzZA?usp=sharing
+1. Ubicación del código:
+[actividad_práctica_AlgoritmoML_MVP_Luida_Medina](https://drive.google.com/drive/folders/1JQbzJ8VsTD99xv1vQptUwu8pQ739BvMR?usp=drive_link)

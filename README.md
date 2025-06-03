@@ -40,5 +40,5 @@ Este análisis proporciona información valiosa para la prevención y diagnósti
 - Scikit-Learn  
 
 ## Cómo ejecutar el código  
-1. Ubicación del código:
+Ubicación del código:
 [actividad_práctica_AlgoritmoML_MVP_Luida_Medina](https://drive.google.com/drive/folders/1JQbzJ8VsTD99xv1vQptUwu8pQ739BvMR?usp=drive_link)

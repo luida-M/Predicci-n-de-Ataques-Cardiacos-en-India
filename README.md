@@ -55,14 +55,13 @@ Este análisis permitió identificar patrones de riesgo cardíaco y construir mo
 Se recomienda aplicar esta metodología a otros contextos regionales para ampliar su alcance predictivo.
 
 
-
 ## Herramientas utilizadas  
-- Python  Colab
+- Python Colab
 - Pandas  
 - Seaborn  
 - Matplotlib  
 - Scikit-Learn  
 
 ## Cómo ejecutar el código  
-Ubicación del código:
+Google Colab:
 [actividad_práctica_AlgoritmoML_MVP_Luida_Medina](https://drive.google.com/drive/folders/1JQbzJ8VsTD99xv1vQptUwu8pQ739BvMR?usp=drive_link)

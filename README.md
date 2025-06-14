@@ -47,7 +47,7 @@ Se evaluó un nuevo paciente con los siguientes datos (Edad: 55, Presión Sistó
 - El modelo XGBoost predijo un riesgo cardíaco con una probabilidad de 99.99%.
 - El modelo Random Forest también indicó riesgo con una probabilidad de 100%.
 
-##Conclusiones Finales
+## Conclusiones Finales
 Este análisis permitió identificar patrones de riesgo cardíaco y construir modelos predictivos confiables.
 - XGBoost fue el modelo con mejor desempeño.
 - La presión arterial y el colesterol son los factores más relevantes.
